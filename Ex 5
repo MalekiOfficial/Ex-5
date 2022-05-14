@@ -1,0 +1,50 @@
+<!doctype html>
+ <html>
+  <head>
+	<title>Ex 5</title>
+     <meta charset="utf-8">
+  </head>
+ <body dir="rtl" style="font-family: Yekan">
+	 <table border="1" style="width: 50%" align="center" cellpadding="10">
+		 <caption> شرح وضعیت خرید های شما </caption>
+	  <tr>
+		<th> شماره دوره </th> 
+		<th> نام دوره </th>
+		<th> ساعت دوره </th>
+		<th bgcolor="#1b5e20" style="color: #fff;" rowspan="3"> پرداخت شده </th>
+	  </tr>
+	  <tr>
+		<td align="center"> 100157 </td>
+		<td align="center"> ریاضی 1 </td>
+		<td align="center"> 8 </td>
+	  </tr>
+	  <tr>
+		<td align="center"> 100896 </td>
+		<td align="center"> فیزیک 1 </td>
+		<td align="center"> 7 </td>
+	  </tr>
+	  <tr>
+		<td align="center"> 100446 </td>
+		<td align="center"> دیفرانسیل </td>
+		<td align="center"> 12 </td>
+		<th bgcolor="#fbc02d" style="color: #000;" rowspan="2"> در حال پرداخت </th>
+	  </tr> 
+	  <tr>
+		<td align="center"> 100989 </td>
+		<td align="center"> ساختمان داده </td>
+		<td align="center"> 15 </td>
+	  </tr> 
+	  <tr>
+		<td align="center"> 100678 </td>
+		<td align="center"> مدار منطقی </td>
+		<td align="center"> 13 </td>
+		<th bgcolor="#EC0F13" style="color: #000;" rowspan="2"> پرداخت ناموفق </th>
+	  </tr>
+	  <tr>	 
+		<td align="center"> 100787 </td>
+		<td align="center"> طراحی الگوریتم </td>
+		<td align="center"> 17 </td>
+	  </tr>	 
+	</table>
+ </body>
+</html>
